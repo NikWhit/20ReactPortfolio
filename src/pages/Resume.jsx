@@ -5,8 +5,8 @@ function Resume () {
         <div>
 
     <h1>Nick Whitaker</h1>
-    <p>2426 S 3585 W • Syracuse, UT 84075 • (801) 694-1448</p>
-    <p>nicholasbwhitaker@gmail.com • linkedin.com/in/nick-whitaker/ • nikowhit.com</p>
+    <p>Address goes here • Phone number goes here</p>
+    <p>message me on my Linkedin, or on my website • linkedin.com/in/nick-whitaker/ • nikowhit.com</p>
 
     <h2>EDUCATION</h2>
     <p>Weber State University--Goddard School of Business & Economics, Ogden, UT</p>
