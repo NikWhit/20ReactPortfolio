@@ -11,7 +11,10 @@
     "start": "vite"
   },
   "dependencies": {
-    "preact": "^10.19.3"
+    "preact": "^10.19.3",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.21.0"
   },
   "devDependencies": {
     "@preact/preset-vite": "^2.7.0",
