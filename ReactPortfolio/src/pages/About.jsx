@@ -1,6 +1,6 @@
 function About() {
     return (
-      <div>
+      <div className="container-fluid mb-3">
         <h1>About Page</h1>
         <p>
           Hello, my name is Nick. 

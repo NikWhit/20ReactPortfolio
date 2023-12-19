@@ -1,5 +1,5 @@
 {
-  "name": "4",
+  "name": "react-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +8,11 @@
     "build": "tsc && vite build",
     "lint": "eslint . --est js,jsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview",
-    "start": "vite"
+    "start": "vite --host"
   },
   "dependencies": {
+    "@vitejs/plugin-react": "^4.2.1",
+    "jquery": "^3.7.1",
     "preact": "^10.19.3",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
